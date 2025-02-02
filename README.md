@@ -1,6 +1,6 @@
 # Hi guys!!!
 
-##My name is Leandro , and this é my github!! welcome ;)
+## My name is Leandro , and this é my github!! welcome ;)
 
 ## these are my skills
 
