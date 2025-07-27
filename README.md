@@ -1,18 +1,33 @@
-# Hi guys!!!
+# Leandro, 👋
 
-## My name is Leandro , and this é my github!! welcome ;)
+ *About Me*
+
+🎓 Estudante de Engenharia de Software  
+🌐 Inglês intermediário  
+
+*Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais reais.*
 
 ## My skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,tailwind,python,css,html" />
+</a>
+  <br />
+
+## 📚 Estudando no momento!
+ <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=typescript,next" />
+</a>
+  <br />
+
+  ## 📈 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Whofelisberto&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whofelisberto&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whofelisberto&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 
 </div>
