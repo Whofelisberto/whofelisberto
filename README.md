@@ -1,5 +1,7 @@
 # Leandro, 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atma&size=17&duration=4000&pause=1000&color=C585B2&lines=Welcome+my+github+%2C+I'm+software+developer" alt="Typing SVG" /></a>
+ 
  *About Me*
 
 🎓 Estudante de Engenharia de Software  
@@ -11,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,tailwind,python,css,html" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,next,react,nodejs,tailwind,python,css,html,mysql,postgresql" />
 </a>
   <br />
 
