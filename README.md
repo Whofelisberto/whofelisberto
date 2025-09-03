@@ -19,7 +19,7 @@
 
 ## 📚 Estudando no momento!
  <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=typescript,next" />
+  <img src="https://skillicons.dev/icons?i=go" />
 </a>
   <br />
 
