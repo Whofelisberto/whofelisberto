@@ -25,9 +25,9 @@
 
   ## 📈 Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Whofelisberto&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  
+<div style="display: flex">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Whofelisberto&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whofelisberto&layout=compact&langs_count=8&theme=radical" alt="GitHub top stacks" />
 </div>
 
 
