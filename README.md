@@ -9,15 +9,33 @@
 
 *Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais reais.*
 
-## My skills
+## Technologies and Languages of programming
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=go,docker,typescript,next,react,javascript,nodejs,tailwind,mysql,postgresql,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python" />
+</a>
+  <br />
+ 
+  ##  Frammeworks and Libraries
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=next,react,express,tailwind" />
 </a>
   <br />
 
-## 📚 Estudando no momento!
+  ## SQLs
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</a>
+  <br />
+  
+  ## Tools
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=docker,npm,git,github" />
+</a>
+  <br />
+  
+## 📚 studying at the moment!
  <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=go" />
 </a>
