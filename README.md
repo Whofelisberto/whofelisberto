@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css" />
 </a>
   <br />
  
@@ -40,13 +40,6 @@
  
 </a>
   <br />
-
-  ## 📈 Stats
-
-<div style="display: flex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Whofelisberto&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whofelisberto&layout=compact&langs_count=8&theme=radical" alt="GitHub top stacks" />
-</div>
 
 
 </div>
