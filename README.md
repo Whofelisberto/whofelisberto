@@ -13,13 +13,13 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
 </a>
   <br />
  
   ##  Frammeworks and Libraries
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=next,react,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=next,flask,react,express,tailwind" />
 </a>
   <br />
 
