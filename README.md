@@ -7,7 +7,7 @@
 🎓 Estudante de Engenharia de Software  
 🌐 Inglês intermediário  
 
-*Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais reais.*
+*Sou apaixonado por tecnologia*
 
 *Portifólio - https://whofelisbertodev.vercel.app/*
 
